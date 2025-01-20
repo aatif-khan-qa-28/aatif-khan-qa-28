@@ -27,14 +27,13 @@ I specialize in automating testing processes and building scalable test framewor
 
 ## 🌱 **Projects**
 
-### 1. [**Selenium WebDriver Automation Framework (Java)**](https://github.com/YourGitHubUsername/selenium-webdriver-java)
-A robust test automation framework built using **Selenium WebDriver** with **Java** for efficient and scalable functional testing.
+### 1. [**Selenium WebDriver Automation Framework Setup (Java)**](https://github.com/aatif-khan-qa-28/automation-project-setup)
+A robust test automation framework built using **Selenium WebDriver** with **Java** for efficient and scalable functional testing. This is a structure builder for any automation project.
 
 - **Features**:
-  - **Page Object Model (POM)** design pattern for easy maintenance.
-  - Parallel test execution using **TestNG** and **Cucumber BDD**.
+  - The project follows a clean and modular directory structure that separates configuration, test scripts, resources, and reports.
+  - It ensures easy scalability and maintainability for teams working on large automation suites.
   - ExtentReports for detailed and customizable reporting.
-  - Integration with **Jenkins** for automated execution on each commit.
 
 ---
 
