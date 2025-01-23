@@ -34,26 +34,6 @@ A robust test automation framework built using **Selenium WebDriver** with **Jav
   - The project follows a clean and modular directory structure that separates configuration, test scripts, resources, and reports.
   - It ensures easy scalability and maintainability for teams working on large automation suites.
   - ExtentReports for detailed and customizable reporting.
-
----
-
-### 2. [**Mobile Automation Testing with Appium**](https://github.com/YourGitHubUsername/appium-mobile-automation)
-Automating mobile app tests using **Appium** for both Android and iOS, ensuring a seamless cross-platform testing experience.
-
-- **Features**:
-  - Supports both **Android** and **iOS** testing.
-  - Written in **Java** with **TestNG** for reporting and parallel execution.
-  - Mobile test scripts that simulate real-user interactions.
-
----
-
-### 3. [**API Automation with Postman**](https://github.com/YourGitHubUsername/api-testing-postman)
-An end-to-end automated testing framework for **REST API** using **Postman**.
-
-- **Features**:
-  - Postman collections for testing various endpoints.
-  - Error-handling and custom assertions for API response validation.
-
 ---
 
 ## 👨‍💻 **Professional Experience**
@@ -72,14 +52,6 @@ An end-to-end automated testing framework for **REST API** using **Postman**.
 - Wrote manual and automated test cases for web and mobile applications.
 - Implemented test plans and maintained detailed documentation for testing processes.
 - Improved the testing efficiency by automating key workflows, reducing time by 30%.
-
----
-
-## 📜 **Certifications**
-
-- **Certified Selenium WebDriver Specialist** – [Certification Provider]
-- **API Testing with Postman** – [Certification Provider]
-- **Performance Testing with JMeter** – [Certification Provider]
 
 ---
 
