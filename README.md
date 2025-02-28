@@ -32,17 +32,17 @@ A robust **Playwright** automation framework in **Java** with self-healing locat
 
 **Key Features:**
 
--Cross-browser automation (Chromium, Firefox, WebKit).
--Self-healing locators via Gemini AI.
--Test management with TestNG.
--Allure Reporting and centralized logging with Log4j2.
--Configurable via config.properties.
+- Cross-browser automation (Chromium, Firefox, WebKit).
+- Self-healing locators via Gemini AI.
+- Test management with TestNG.
+- Allure Reporting and centralized logging with Log4j2.
+- Configurable via config.properties.
 
 **Self-Healing Flow:**
 
--Failed locators trigger Gemini AI suggestions.
--Suggested locators are tried until success.
--Full recovery logs are captured.
+- Failed locators trigger Gemini AI suggestions.
+- Suggested locators are tried until success.
+- Full recovery logs are captured.
 
     
 ### 2. [**Selenium WebDriver Automation Framework Setup (Java)**](https://github.com/aatif-khan-qa-28/automation-project-setup)
