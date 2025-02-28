@@ -27,7 +27,25 @@ I specialize in automating testing processes and building scalable test framewor
 
 ## 🌱 **Projects**
 
-### 1. [**Selenium WebDriver Automation Framework Setup (Java)**](https://github.com/aatif-khan-qa-28/automation-project-setup)
+### 1. [**AI-Playwright-Automation-Project**](https://github.com/aatif-khan-qa-28/AIPlaywrightProject)
+A robust **Playwright** automation framework in **Java** with self-healing locators powered by **Google Gemini AI**, ensuring reliable web automation.
+
+**Key Features:**
+
+-Cross-browser automation (Chromium, Firefox, WebKit).
+-Self-healing locators via Gemini AI.
+-Test management with TestNG.
+-Allure Reporting and centralized logging with Log4j2.
+-Configurable via config.properties.
+
+**Self-Healing Flow:**
+
+-Failed locators trigger Gemini AI suggestions.
+-Suggested locators are tried until success.
+-Full recovery logs are captured.
+
+    
+### 2. [**Selenium WebDriver Automation Framework Setup (Java)**](https://github.com/aatif-khan-qa-28/automation-project-setup)
 A robust test automation framework built using **Selenium WebDriver** with **Java** for efficient and scalable functional testing. This is a structure builder for any automation project.
 
 - **Features**:
@@ -36,7 +54,7 @@ A robust test automation framework built using **Selenium WebDriver** with **Jav
   
 ---
 
-### 2. [**Playwright Automation Project**](https://github.com/aatif-khan-qa-28/PlaywrightAutomation)
+### 3. [**Playwright Automation Project**](https://github.com/aatif-khan-qa-28/PlaywrightAutomation)
 A robust test automation framework built using **Playwright** with **Javascript** for efficient and scalable functional testing. 
 
 - **Features**:
