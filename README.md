@@ -54,15 +54,6 @@ A robust test automation framework built using **Selenium WebDriver** with **Jav
   
 ---
 
-### 3. [**Playwright Automation Project**](https://github.com/aatif-khan-qa-28/PlaywrightAutomation)
-A robust test automation framework built using **Playwright** with **Javascript** for efficient and scalable functional testing. 
-
-- **Features**:
-  - Cross-browser testing (Chromium, Firefox, WebKit).
-  - Parallel test execution.
-  - Easy configuration with environment-specific settings.
-  - Customizable reporting (e.g., HTML, Allure)
-
 ## 👨‍💻 **Professional Experience**
 
 ### QA Automation Engineer | **Talentica Software (I) Pvt Ltd**  
